@@ -1,0 +1,31 @@
+{
+  "name": "@openclaw/bingan",
+  "version": "1.0.1",
+  "description": "饼干 - 自动抓取/导出Cookie，并供OpenClaw读取使用",
+  "main": "index.ts",
+  "openclaw": {
+    "extensions": ["./index.ts"]
+  },
+  "files": [
+    "index.ts",
+    "extension/**",
+    "openclaw.plugin.json",
+    ".gitignore",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "openclaw",
+    "plugin",
+    "cookie",
+    "browser",
+    "chrome-extension"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "openclaw": ">=2026.2.0"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "bingan",
+  "name": "饼干（bingan）",
+  "description": "自动抓取/导出 Cookie，并供 OpenClaw 工具读取使用",
+  "version": "1.0.1",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}
