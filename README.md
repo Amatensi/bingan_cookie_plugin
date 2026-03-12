@@ -1,0 +1,2 @@
+# bingan_cookie_plugin
+可以帮助你自动获取页面的cookie值，并整理在浏览器扩展里面，可被openclaw等智能体自动获取并读取。
