@@ -1,4 +1,4 @@
-# bingan-plugin（饼干）
+# bingan-cookie-plugin（饼干）
 
 一个用于 **自动抓取 / 保存 / 导出 Cookie** 的 OpenClaw 插件 + 浏览器扩展组合。
 
